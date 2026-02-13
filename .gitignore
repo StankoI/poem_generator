@@ -1,0 +1,6 @@
+testData
+trainData
+modelLSTM.pt
+auth2id
+char2id
+corpusPoem
